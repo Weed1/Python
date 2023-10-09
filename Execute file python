@@ -1,0 +1,14 @@
+Pertama buat file python.
+File python dapat dibuat dengan file editor apapun seperti : notepad
+Buat file notepad baru dan tambahkan
+> Print("Hello, World!")  
+lalu save filenya dengan format .py
+contoh : python1.py
+Buka Command prompt
+masuk ke python dengan perintah
+#python atau py
+lalu gunakan syntax python
+#python python1.py
+Jika output dari python
+Hello, World!
+maka file python berhasil dijalankan
