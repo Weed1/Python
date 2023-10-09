@@ -1,0 +1,11 @@
+Download phyton melalui python.id atau melalui microsoft store
+untuk melihat versi python yang telah di download, gunakan perintah di Command Prompt
+#python --version
+lalu untuk memasuki python cukup gunakan perintah
+#python
+atau
+#py
+untuk keluar dari python, gunakan perintah
+#exit()
+atau
+#quit()
