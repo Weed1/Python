@@ -1,0 +1,12 @@
+buat variable pada 
+text editor
+a = 5
+b = "Hello, World!"
+
+Terus tambahkan
+print(a)
+print(b)
+
+maka outputnya akan menjadi
+5
+Hello, World!
